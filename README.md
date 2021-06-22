@@ -1,5 +1,10 @@
 # Library Recommendation
 
+## prepare environement
+```sh
+conda activate <your env>
+pip install -r requirements.txt
+```
 ## train
 
 ```py
