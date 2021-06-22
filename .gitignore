@@ -1,0 +1,6 @@
+*.pt
+.*/
+data/*.json
+data/*.csv
+data/*/
+__py**/
